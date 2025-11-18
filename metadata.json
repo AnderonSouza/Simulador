@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Planejamento Tributário",
+  "description": "Uma aplicação para simular e comparar regimes tributários (Lucro Presumido, Lucro Real e Simples Nacional) para empresas, auxiliando no planejamento tributário.",
+  "requestFramePermissions": []
+}
